@@ -24,6 +24,9 @@ theme:
       primary: indigo
       toggle: { icon: material/brightness-4, name: Light mode }
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - attr_list          # explicit heading ids: {#h.2a86ld1hnga3} keeps the old Google Sites anchors
   - md_in_html

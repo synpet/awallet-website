@@ -1,0 +1,8 @@
+/* Download page: app icon, name and store badge per card */
+.download .app-icon { width: 96px; border-radius: 22%; }
+.download .badge-play { height: 62px; }     /* the Play badge has transparent padding around it */
+.download .badge-apple { height: 42px; margin: 10px 0; }
+.download li { text-align: center; }
+
+/* Phone screenshots in the user guide */
+.md-typeset img.screenshot { max-width: 300px; width: 100%; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 8px; }
